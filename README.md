@@ -1,4 +1,4 @@
-[![LIVECOIN](https://raw.githubusercontent.com/ballantyne/livecoin/branch/affiliate.gif)](https://livecoin.net/?from=Livecoin-ybRDrafb)
+[![LIVECOIN](https://raw.githubusercontent.com/ballantyne/livecoin/master/images/affiliate.gif)](https://livecoin.net/?from=Livecoin-ybRDrafb)
 
 Livecoin
 ------------
