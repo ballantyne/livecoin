@@ -1,0 +1,62 @@
+[
+    {
+        "code": 1,
+        "message": "Unknown error"
+    },
+    {
+        "code": 2,
+        "message": "System error"
+    },
+    {
+        "code": 10,
+        "message": "Authentication error"
+    },
+    {
+        "code": 11,
+        "message": "Authentication is required"
+    },
+    {
+        "code": 12,
+        "message": "Authentication failed"
+    },
+    {
+        "code": 20,
+        "message": "Signature incorrect"
+    },
+    {
+        "code": 30,
+        "message": "Access denied"
+    },
+    {
+        "code": 31,
+        "message": "API disabled"
+    },
+    {
+        "code": 32,
+        "message": "API restricted by IP"
+    },
+    {
+        "code": 100,
+        "message": "Incorrect parameters"
+    },
+    {
+        "code": 101,
+        "message": "Incorrect API key"
+    },
+    {
+        "code": 102,
+        "message": "Incorrect User ID"
+    },
+    {
+        "code": 103,
+        "message": "Incorrect currency"
+    },
+    {
+        "code": 104,
+        "message": "Incorrect amount"
+    },
+    {
+        "code": 150,
+        "message": "Unable to block funds"
+    }
+]
