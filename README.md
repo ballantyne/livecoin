@@ -174,6 +174,8 @@ Here is an incomplete list of all of the different currencies that you can purch
 
 I know that that is a little overkill, but I wanted to make a point about how many more currencies are available on Livecoin than there are on GDAX currently.  I like GDAX a lot, like I said, don't get me wrong, but there is room for more than GDAX in my currency trading life.   
 
+[![LIVECOIN](https://github.com/ballantyne/livecoin/blob/master/images/affiliate.gif?raw=true)](https://livecoin.net/?from=Livecoin-ybRDrafb)
+
 Contributing
 ------------
 
@@ -187,6 +189,9 @@ If you'd like to contribute a feature or bugfix: Thanks! To make sure your fix/f
 
 
 And once there are some contributors, then I would like to thank all of [the contributors](https://github.com/ballantyne/livecoin/graphs/contributors)!
+
+[![LIVECOIN](https://github.com/ballantyne/livecoin/blob/master/images/affiliate.gif?raw=true)](https://livecoin.net/?from=Livecoin-ybRDrafb)
+
 
 License
 -------
