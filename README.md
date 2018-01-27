@@ -16,7 +16,7 @@ Donations
 
 [Livecoin](https://livecoin.net/?from=Livecoin-ybRDrafb) is interesting, its interface isn't as slick as GDAX but you have more access to altcoins that you do on GDAX, so I suppose that there are tradeoffs.  I have only used [Livecoin](https://livecoin.net/?from=Livecoin-ybRDrafb) for a day or two, so I may have more feedback and criticism in the coming days, but for now I am fascinated by all of the different altcoins that exist, hopefully I don't lose all of the bitcoins I sent over there. 
 
-Here is an incomplete list of all of the different currencies that you can purchase and trade on ![Livecoin](https://livecoin.net/?from=Livecoin-ybRDrafb) and there is also an address accompanying them where you can send a donation to me for putting together this open source library if you feel so inclined.  If you don't want to send me your hard earned coins, then click the referral link as you signup.  Much appreciated.
+Here is an incomplete list of all of the different currencies that you can purchase and trade on [Livecoin](https://livecoin.net/?from=Livecoin-ybRDrafb) and there is also an address accompanying them where you can send a donation to me for putting together this open source library if you feel so inclined.  If you don't want to send me your hard earned coins, then click the referral link as you signup.  Much appreciated.
 
 
 * DIME: 7LsQbBZUZDWUUZFGN7HpgTtMuWx4BzsSKJ
