@@ -1,5 +1,6 @@
 const path = require('path');
 
+module.exports.request       = require(path.join(__dirname, 'lib', 'request'));
 module.exports.api           = require(path.join(__dirname, 'lib', 'api'));
 module.exports.user          = require(path.join(__dirname, 'lib', 'user'));
 module.exports.orders        = require(path.join(__dirname, 'lib', 'orders'));
