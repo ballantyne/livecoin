@@ -10,7 +10,7 @@ Usage
 ------------
 
 
-Donations
+Tips
 ------------
 
 
